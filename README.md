@@ -1,6 +1,7 @@
 # Datheon Machine Learning and Data Science Internship
 
-Two supervised models, each in its own notebook. Task 1 predicts an iris species. Task 2 predicts a California block's median house value.
+Two supervised models, each in its own notebook. Task 1 predicts an iris species. 
+Task 2 predicts a California block's median house value.
 
 ## Task 1 - Iris classification
 
